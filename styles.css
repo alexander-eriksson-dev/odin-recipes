@@ -1,0 +1,24 @@
+body {
+    background-color: #00B0FF;
+    font-family: Tahoma, sans-serif;
+}
+
+a {
+    color: black;
+}
+
+.title {
+    color: black;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+    outline: dashed 20px     ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+}
