@@ -1,5 +1,12 @@
 # odin-recipes
 
-My first project going through The Odin Project. 
+My first project going through [The Odin Project](www.theodinproject.com). 
 
-This will become a website storing recipes. When this is done I will have practiced HTML. 
+## This is
+✅ Practice of basic html and css
+
+✅ Making multiple pages and linking between them
+
+❌ No focus on styling - yeah it looks terrible
+
+### [Live Demo](https://alexander-eriksson-dev.github.io/odin-recipes/)
