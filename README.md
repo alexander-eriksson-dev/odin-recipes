@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes
 
 My first project going through [The Odin Project](www.theodinproject.com). 
 
