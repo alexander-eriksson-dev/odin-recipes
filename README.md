@@ -1,6 +1,6 @@
 # Recipes
 
-My first project going through [The Odin Project](www.theodinproject.com). 
+My first project going through [The Odin Project](https://www.theodinproject.com/). 
 
 ## This is
 ✅ Practice of basic html and css
